@@ -1,3 +1,5 @@
+I am getting started with deploying and setting up a full stack web app with AWS amplify. I am doing this to see if this might be a better solution for my latest project.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
